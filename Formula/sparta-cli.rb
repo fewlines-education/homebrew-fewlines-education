@@ -14,6 +14,6 @@ class SpartaCli < Formula
   end
 
   test do
-    system bin/"heroku", "version"
+    system bin/"sparta", "version"
   end
 end
