@@ -1,8 +1,8 @@
 class SpartaCli < Formula
   desc "Fewlines Sparta CLI"
   homepage "https://github.com/fewlinesco/sparta-cli"
-  url "https://github.com/fewlinesco/sparta-cli/releases/download/1.1.0/sparta-cli-v1.1.0.tar"
-  sha256 "e87e9067dead16fe3a72f0d7f7241a3dab73f0233f6a924ff378e765648083f5"
+  url "https://github.com/fewlinesco/sparta-cli/releases/download/1.1.0/sparta-cli-v1.1.0.tar.gz"
+  sha256 "35428f185981204ecf327f2db5905cdfbc20676c7c45775cc8de9070099ccf29"
   license "MIT"
   depends_on "heroku/brew/heroku-node"
 
